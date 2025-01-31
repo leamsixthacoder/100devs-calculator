@@ -16,6 +16,7 @@
     height: 80px;
     border-radius: 0.2rem;
     font-size: 45px;
+    text-align: end;
 }
 
 .button-container {
